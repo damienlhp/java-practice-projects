@@ -7,7 +7,7 @@ These are small projects I’m currently working on as I continue learning Java.
 
 ## 📁 Repository Structure
 
-The repository is organized into **topic-based folders**. Each folder contains **individual project examples** with a short README describing what the exercise demonstrates.
+The repository is organized into **individual project examples** with a short README describing what the exercise demonstrates.
 
 
 ---
